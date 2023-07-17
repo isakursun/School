@@ -4,6 +4,8 @@ This project is a school project.If you want to take software education, you can
 
 <h2> Used technologies </h2>
 
+HTML and CSS
+
 <h2> Screen </h2>
 
 ![](ekran.gif)
